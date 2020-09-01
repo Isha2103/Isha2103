@@ -6,7 +6,9 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
+-  **Languages :** Python, C, JavaScript💻
+-  **Hobbies :** Articles📕 & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organisation :** Technojam
+
+<img align="left" alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&hide_border=true" />
