@@ -1,14 +1,25 @@
-### Hi there 👋
+<p align="center">
+  <img width="300" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745530">
+</p>
 
-### Isha Gupta 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
+<p align="center">
+  <img width="500" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745185">
+</p>
+
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, C, JavaScript💻
 -  **Hobbies :** Articles📕 & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organisation :** Technojam
+-  **Fact :** It's never late to get started 🎯:heart:
+-  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
-<img align="left" alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&hide_border=true" />
+<p align="center">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img width="600" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745394">
+</p>
