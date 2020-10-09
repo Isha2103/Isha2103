@@ -1,10 +1,8 @@
 <p align="center">
-  <img width="300" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745530">
+  <img width="350" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-<p align="center">
-  <img width="500" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745185">
-</p>
+# I am <img width="200" height="100" align="top" alt="Isha" src="https://im7.ezgif.com/tmp/ezgif-7-fdb51a049eb7.gif">
 
 [![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)  [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img width="600" height="100" src="https://en.bloggif.com/tmp/51aedbb63edb3ff0460ddb1c2e66ce3d/text.gif?1601745394">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
