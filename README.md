@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="350" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+<p align="left">
+  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
 # I am <img width="200" height="100" align="top" alt="Isha" src="https://im7.ezgif.com/tmp/ezgif-7-fdb51a049eb7.gif">
