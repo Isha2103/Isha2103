@@ -7,8 +7,8 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript💻
--  **Hobbies :** Articles📕 & Music :headphones:
+-  **Languages :** Java, C, JavaScript💻
+-  **Hobbies :** Articles📕, Novels & Music :headphones:
 -  **Fact :** It's never late to get started 🎯:heart:
 -  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
 
