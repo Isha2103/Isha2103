@@ -7,19 +7,18 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
  
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Development:zap:,Open-Source:fire:	
 -  **Languages :** Java, C, JavaScript💻
--  **Hobbies :** Articles📕, Books, Novels & Music :headphones:
+-  **Hobbies :** Articles, Books📕, Novels & Music :headphones:
 -  **Fact :** It's never late to get started 🎯:heart:
--  **Organisation :** [Technojam](https://github.com/technojam), [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias)
-
+-  **Organisation :** [Developers Student Club at Galgotias University](https://github.com/DSC-Galgotias), [Technojam](https://github.com/technojam), [Software Development Intern at Remote State](https://github.com/RemoteState)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Languages and Tools ⚙</i>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="java"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5"></code>
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/732/732190.png" title="CSS3"></code>
+<code><img width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML5"></code>
+<code><img width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS3"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
@@ -29,12 +28,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Earned Badges</i>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="hacktoberfest2021" width="100" height="100">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="hacktoberfest2021" width="100" height="100"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="pull shark" width="100" height="100">
 
 <p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=radical">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true&theme=gotham">
 </p>
 
 <p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2103&show_icons=true&theme=gotham">
+</p>
+
+<!-- <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p>
+</p> -->
