@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Isha2103&&row=2&column=4&theme=juicyfresh" />
+</p>
+
+<p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2103&show_icons=true&theme=gotham">
 </p>
 
